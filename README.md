@@ -1,6 +1,6 @@
 Overview
 ===
-Code for “An integrated multi-omics epigenomic atlas of human BMSCs uncovers distinct regulatory architectures governing development and senescence”
+Code for “An integrated multi-omics epigenomic atlas of human BMSCs uncovers distinct regulatory architectures governing development and senescence”.
 
 Abstract
 ===
